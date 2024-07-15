@@ -1,2 +1,2 @@
 # SignLanguageDetection
- A Sign Language classification model using CNNs to produce an accuracy of 85.6%
+ A Sign Language classification model using CNNs to produce an accuracy of 86%
